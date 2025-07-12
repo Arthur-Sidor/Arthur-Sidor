@@ -20,6 +20,7 @@
 ![JavaServlet](https://img.shields.io/badge/-JavaServlet-007396?style=flat&logo=java)
 ![Hibernate](https://img.shields.io/badge/-Hibernate-007396?style=flat&logo=java)
 ![Spring](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat&logo=springboot)
+![Kotlin](https://img.shields.io/badge/-Kotlin-007396?style=flat&logo=Kotlin)
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular)
 ![React](https://img.shields.io/badge/-React-DD0031?style=flat&logo=angular)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js)
