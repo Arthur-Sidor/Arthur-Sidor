@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou o Arthur Sidor!
 
 💻 Desenvolvedor Full-Stack em formação, apaixonado por tecnologia e inovação.  
-🎯 Buscando criar soluções que façam a diferença, explorando desde o back-end em Java/Spring até o front-end com Angular e Node.js.
+🎯 Buscando criar soluções que façam a diferença, explorando desde o back-end em Java/Spring até o front-end com Angular e React.
 
 ---
 
