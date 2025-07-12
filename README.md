@@ -29,6 +29,8 @@
 ![SQL Server](https://img.shields.io/badge/-T--SQL-CC2927?style=flat&logo=microsoftsqlserver)
 ![Firebase](https://img.shields.io/badge/-Firebase-CC2927?style=flat&logo=microsoftsqlserver)
 ![Azure](https://img.shields.io/badge/-Azure-CC2927?style=flat&logo=microsoftsqlserver)
+![Figma](https://img.shields.io/badge/-Figma-F05032?style=flat&logo=git)
+![Postman/Insomnia](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular)
 
 ---
 
