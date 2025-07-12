@@ -17,6 +17,9 @@
 ## 🛠️ Tecnologias & Ferramentas
 
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java)
+![JavaServlet](https://img.shields.io/badge/-Java-007396?style=flat&logo=java)
+![Hibernate](https://img.shields.io/badge/-Java-007396?style=flat&logo=java)
+![JavaServlet](https://img.shields.io/badge/-Java-007396?style=flat&logo=java)
 ![Spring](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat&logo=springboot)
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js)
@@ -24,6 +27,8 @@
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git)
 ![SQL Server](https://img.shields.io/badge/-T--SQL-CC2927?style=flat&logo=microsoftsqlserver)
+![Firebase](https://img.shields.io/badge/-T--SQL-CC2927?style=flat&logo=microsoftsqlserver)
+![Azure](https://img.shields.io/badge/-T--SQL-CC2927?style=flat&logo=microsoftsqlserver)
 
 ---
 
