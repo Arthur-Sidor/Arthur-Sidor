@@ -10,7 +10,6 @@
 - 🎓 Estudante de Análise e Desenvolvimento de Sistemas na FIAP
 - 💼 Experiência com Suporte e Análise de Sistemas
 - 📚 Atualmente focado em projetos Java, Spring Boot, APIs REST e aplicações Docker
-- 🌍 Planejando expandir minha carreira internacionalmente (Irlanda 🇮🇪 em breve!)
 - 🧠 Interessado também em Inteligência Artificial e soluções com Python
 
 ---
