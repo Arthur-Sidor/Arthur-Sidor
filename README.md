@@ -5,7 +5,7 @@
 
 ---
 
-## 🚀 Sobre mim
+##  Sobre mim
 
 - 🎓 Estudante de Análise e Desenvolvimento de Sistemas na FIAP
 - 💼 Experiência com Suporte e Análise de Sistemas
