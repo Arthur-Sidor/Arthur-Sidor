@@ -1,13 +1,13 @@
 # 👋 Olá, eu sou o Arthur Sidor!
 
-💻 Desenvolvedor Full-Stack em formação, apaixonado por tecnologia e inovação.  
+💻 Desenvolvedor Java, apaixonado por tecnologia e inovação.  
 🎯 Buscando criar soluções que façam a diferença, explorando desde o back-end em Java/Spring até o front-end com Angular e React.
 
 ---
 
 ##  Sobre mim
 
-- 🎓 Estudante de Análise e Desenvolvimento de Sistemas na FIAP
+- 🎓 Estudante de Análise e Desenvolvimento de Sistemas FullStack na FIAP
 - 💼 Experiência com Suporte e Análise de Sistemas
 - 📚 Atualmente focado em projetos Java, Spring Boot, APIs REST e aplicações Docker
 - 🧠 Interessado também em Inteligência Artificial e soluções com Python
